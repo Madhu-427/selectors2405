@@ -1,0 +1,53 @@
+img {
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.SRH {
+    box-sizing:border-box;
+    padding: 20px;
+    border: 10px solid orangered;
+    background-color: aquamarine;
+    margin: 10px;
+}
+img:hover{
+    filter: drop-shadow(10px 10px 10px orangered);
+}
+
+.GT {
+    padding: 30px;
+    border: 10px dashed black;
+    background-color: deepskyblue;
+}
+#bhuvi {
+    padding: 20px;
+    border: 10px dotted deepskyblue;
+    margin: 20px;
+}
+
+#rahul {
+    
+    padding: 20px;
+    border: 10px groove deeppink;
+    margin: 20px;
+}
+#nattu {
+    padding: 20px;
+    border: 10px double deeppink;
+    margin: 20px;
+}
+#prabhu {
+    padding: 20px;
+    border: 10px ridge deepskyblue;
+    margin: 20px;
+}
+#hooda{
+    padding: 20px;
+    border: 10px inset gray;
+    margin: 20px;
+}
+#krunal{
+    padding: 20px;
+    border: 10px outset deepskyblue;
+    margin: 20px;
+}
